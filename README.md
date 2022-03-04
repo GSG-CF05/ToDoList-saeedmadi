@@ -4,11 +4,11 @@
 ## Description :
 People sometimes find it difficult to manage life or daily tasks, and work as well.
 So here we will solve this problem by making a site that helps to arrange tasks through it, which will contain the requirements as follows:
- 	- Responsive"mopile first"
-  	- add my to-do to the list and save it in the Local Storage.
-	- edit my to-dos.
-	- remove any to-do "remove it form local storage". 
-	- still have my list even if i close the broowser window.
+- Responsive"mopile first"
+- add my to-do to the list and save it in the Local Storage.
+- edit my to-dos.
+- remove any to-do "remove it form local storage". 
+- still have my list even if i close the broowser window.
 
 ## User Stories:
   - make html components.
