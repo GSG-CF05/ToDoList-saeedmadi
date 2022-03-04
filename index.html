@@ -11,24 +11,30 @@
   <body>
     <header>
       <h1>To Do List</h1>
-      <form id="to-do-form">
-        <input type="text" id="new-to-do" placeholder="Add Your Own Plan" />
+      <form id="new-to-do-form">
+        <input
+          type="text"
+          id="new-to-do-input"
+          placeholder="Add Your Own Plan"
+        />
         <input type="submit" id="new-to-do-submit" value="Add to-do" />
       </form>
     </header>
     <main class="to-do-list">
-      <h2>Tasks</h2>
-      <div id="tasks">
-        <div class="task">
-          <div class="content">
-            <input type="to-do" class="to-do" value="my-to-do" readonly />
-          </div>
-          <div class="actions">
-            <button class="edit">Edit</button>
-            <button class="delete">Delete</button>
+      <section>
+        <h2>To Do</h2>
+        <div id="to-dos">
+          <div class="to-do-c">
+            <div class="content">
+              <input type="text" class="text" value="my-to-do" readonly />
+            </div>
+            <div class="actions">
+              <button class="edit">Edit</button>
+              <button class="delete">Delete</button>
+            </div>
           </div>
         </div>
-      </div>
+      </section>
     </main>
     <script src="./todo.js"></script>
   </body>
