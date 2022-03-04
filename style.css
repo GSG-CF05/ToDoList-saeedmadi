@@ -32,3 +32,43 @@ header h1 {
   color: var(--gray);
   margin-bottom: 1rem;
 }
+
+#new-to-do-form {
+  display: flex;
+}
+input,
+button {
+  appearance: none;
+  border: none;
+  outline: none;
+  background: none;
+}
+#new-to-do-input {
+  flex: 1 1 0%;
+  background-color: var(--darker);
+  padding: 1rem;
+  border-radius: 1rem;
+  margin-right: 1rem;
+  color: var(--light);
+  font-size: 1.25rem;
+}
+
+#new-task-input::placeholder {
+  color: var(--gray);
+}
+#new-to-do-submit {
+  color: var(--pink);
+  font-size: 1.25rem;
+  font-weight: 700;
+  background-image: linear-gradient(to right, var(--pink), var(--purple));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
+
+#new-to-do-submit:hover {
+  opacity: 0.8;
+}
+#new-to-do-submit:active {
+  opacity: 0.6;
+}
