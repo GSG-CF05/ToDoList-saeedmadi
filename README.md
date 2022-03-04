@@ -11,10 +11,11 @@ So here we will solve this problem by making a site that helps to arrange tasks 
 - still have my list even if i close the broowser window.
 
 ## User Stories:
-  - make html components.
-  - make css for html page.
-  - test page to be responsive .
-  - make the functionality of to-do app .	
+  - user can create a task.
+  - user can edit task .
+  - user can delete task .
+  - user can update task .
+  - user can delete all tasks .	
 
 ## Live Link : ("");
 
