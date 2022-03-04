@@ -20,7 +20,7 @@ So here we will solve this problem by making a site that helps to arrange tasks 
 
 ## How do i get the project on my local machine !
   U have to install :
-  - download the code in spaciic Dir.
+  - download the code in spacifec Dir.
   - node.js RunTime Environment .
   - VS code "code Editor" .
   - install "liveserer Extention"
