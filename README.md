@@ -14,8 +14,7 @@ So here we will solve this problem by making a site that helps to arrange tasks 
   - user can create a task.
   - user can edit task .
   - user can delete task .
-  - user can update task .
-  - user can delete all tasks .	
+  - user can update on task . .	
 
 ## Live Link : https://gsg-cf05.github.io/ToDoList-saeedmadi/
 
@@ -30,6 +29,6 @@ even u install this req.s open cmd or "Git bash" in the directory that u downloa
 then do this command  :{  $ code .  }
 the code will open in VS Code , then open index.html , 
 then click the right click in maouse , 
-choose {open with live Server} ,
+choose {open with live Server} ,==> then enjoy.
 
 # Saeid Madi
